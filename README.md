@@ -1,3 +1,3 @@
 # estructura_de_datos
-#rainer gael rivera rodriguez
-##estructura de datos
+# rainer gael rivera rodriguez
+## estructura de datos
